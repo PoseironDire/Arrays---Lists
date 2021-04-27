@@ -1,0 +1,16 @@
+C:\Users\edvin.tsygankov\Documents\Programmering\Arrays & Lists\bin\Debug\net5.0\Arrays & Lists.exe
+C:\Users\edvin.tsygankov\Documents\Programmering\Arrays & Lists\bin\Debug\net5.0\Arrays & Lists.deps.json
+C:\Users\edvin.tsygankov\Documents\Programmering\Arrays & Lists\bin\Debug\net5.0\Arrays & Lists.runtimeconfig.json
+C:\Users\edvin.tsygankov\Documents\Programmering\Arrays & Lists\bin\Debug\net5.0\Arrays & Lists.runtimeconfig.dev.json
+C:\Users\edvin.tsygankov\Documents\Programmering\Arrays & Lists\bin\Debug\net5.0\Arrays & Lists.dll
+C:\Users\edvin.tsygankov\Documents\Programmering\Arrays & Lists\bin\Debug\net5.0\ref\Arrays & Lists.dll
+C:\Users\edvin.tsygankov\Documents\Programmering\Arrays & Lists\bin\Debug\net5.0\Arrays & Lists.pdb
+C:\Users\edvin.tsygankov\Documents\Programmering\Arrays & Lists\obj\Debug\net5.0\Arrays & Lists.csprojAssemblyReference.cache
+C:\Users\edvin.tsygankov\Documents\Programmering\Arrays & Lists\obj\Debug\net5.0\Arrays & Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edvin.tsygankov\Documents\Programmering\Arrays & Lists\obj\Debug\net5.0\Arrays & Lists.AssemblyInfoInputs.cache
+C:\Users\edvin.tsygankov\Documents\Programmering\Arrays & Lists\obj\Debug\net5.0\Arrays & Lists.AssemblyInfo.cs
+C:\Users\edvin.tsygankov\Documents\Programmering\Arrays & Lists\obj\Debug\net5.0\Arrays & Lists.csproj.CoreCompileInputs.cache
+C:\Users\edvin.tsygankov\Documents\Programmering\Arrays & Lists\obj\Debug\net5.0\Arrays & Lists.dll
+C:\Users\edvin.tsygankov\Documents\Programmering\Arrays & Lists\obj\Debug\net5.0\ref\Arrays & Lists.dll
+C:\Users\edvin.tsygankov\Documents\Programmering\Arrays & Lists\obj\Debug\net5.0\Arrays & Lists.pdb
+C:\Users\edvin.tsygankov\Documents\Programmering\Arrays & Lists\obj\Debug\net5.0\Arrays & Lists.genruntimeconfig.cache
